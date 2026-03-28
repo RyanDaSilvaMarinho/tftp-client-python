@@ -196,7 +196,7 @@ Não pode:
 
 ## Estrutura do Projeto
 
-\`\`\`text
+```
 tftp-client-python/
 ├─ docs/
 │  └─ c4/
@@ -218,4 +218,5 @@ tftp-client-python/
 └─ tests/
    ├─ unit/
    └─ integration/
-\`\`\`
+```
+
