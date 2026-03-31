@@ -123,12 +123,10 @@ python tests/integration/test_tftpd64.py
 
 ## Papéis e Responsabilidades
 
-### Arquiteto - Fernando Luis
+### Arquiteto e Engenheiro de Redes - Ryan da Silva Marinho
 - Elaboração dos diagramas C4
 - Estrutura inicial do repositório
 - Revisão e aprovação de Pull Requests
-
-### Engenheiro de Redes e Testes - Ryan da Silva Marinho
 - Criação do `README.md`
 - Implementação de `udp_adapter.py`, `file_access.py`, `packet_api.py`, `client.py`, `cli.py`, `transfer_manager.py`
 
