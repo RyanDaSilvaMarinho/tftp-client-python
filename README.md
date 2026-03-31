@@ -15,13 +15,13 @@ Implementar um cliente TFTP em Python, aderente à RFC 1350, com separação de 
 ## Diagramas C4
 
 ### Nível 1 — Contexto
-![C4 Nível 1](<img width="894" height="721" alt="image" src="https://github.com/user-attachments/assets/c7b7aa05-3df8-440e-a4ff-e4386fcc56a3" />)
+<img width="894" height="721" alt="image" src="https://github.com/user-attachments/assets/c7b7aa05-3df8-440e-a4ff-e4386fcc56a3" />
 
 ### Nível 2 — Container
-![C4 Nível 2](<img width="631" height="811" alt="image" src="https://github.com/user-attachments/assets/b62205f1-2768-48c2-a380-be0707d1485e" />)
+<img width="631" height="811" alt="image" src="https://github.com/user-attachments/assets/b62205f1-2768-48c2-a380-be0707d1485e" />
 
 ### Nível 3 — Componentes
-![C4 Nível 3](<img width="859" height="1081" alt="image" src="https://github.com/user-attachments/assets/c29b72cd-7835-423e-abbb-c9b9f34ad411" />)
+<img width="859" height="1081" alt="image" src="https://github.com/user-attachments/assets/c29b72cd-7835-423e-abbb-c9b9f34ad411" />
 
 ---
 
